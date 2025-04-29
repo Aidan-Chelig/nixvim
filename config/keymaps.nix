@@ -2,6 +2,7 @@
   globals.mapleader = " ";
 
   keymaps = [
+
     {
       mode = [
         "n"

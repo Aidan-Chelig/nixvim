@@ -39,6 +39,9 @@ _: {
     ./plugins/lsp/conform.nix
     ./plugins/lsp/fidget.nix
 
+    # Debug
+    ./plugins/debug/dap.nix
+
     # Git
     ./plugins/git/lazygit.nix
     ./plugins/git/gitsigns.nix
